@@ -1,0 +1,17 @@
+{
+    "name": "alaedine.marzougui/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "alaeddine",
+            "email": "a.marzougui@cruiseline.eu"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
